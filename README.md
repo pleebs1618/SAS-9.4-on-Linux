@@ -2,7 +2,7 @@
 
 ## Useful Codes
 
-###NFS Setup
+### NFS Setup
 
 ######
 sudo yum install -y nfs-utils
