@@ -1,3 +1,9 @@
-# SAS-9.4-on-Linux
+# SAS 9.4 Deployment on Linux Multi-Machine
 
-Useful codes for deployment
+## Useful Codes
+
+###NFS Setup
+
+######
+sudo yum install -y nfs-utils
+######
