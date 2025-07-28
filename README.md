@@ -1,5 +1,3 @@
-# SAS 9.4 Deployment on Linux Multi-Machine
-
 ## Useful Codes
 
 ### NFS Setup
